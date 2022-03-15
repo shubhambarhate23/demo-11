@@ -1,1 +1,2 @@
 file for instruction requires for software development
+edit some instruction regarding to the security of work
